@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💫 Обо мне:
+🔭 Привет! Я разработчик, который любит превращать идеи в рабочие и интересные проекты  
+💻 Постоянно изучаю новые технологии, библиотеки и подходы к разработке  
+🤝 Работаю с современным стеком и развиваюсь в backend / frontend / software development  
+⚡ Каждый день стараюсь узнавать что-то новое и прокачивать свои навыки  
 
-<!--
-**AnGeJl-XpAnuTeJIb/AnGeJl-XpAnuTeJIb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Стек и технологии:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-Here are some ideas to get you started:
+# 🚀 Интересы:
+🎮 Разработка ПО и игровых проектов  
+🧠 Алгоритмы, оптимизация и архитектура кода  
+🌐 Frontend / Backend разработка  
+⚙️ Автоматизация, API и работа с данными  
+📚 Постоянное самообучение и развитие  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub статистика:
+![](https://github-readme-stats.shion.dev/api?username=AnGeJl-XpAnuTeJIb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AnGeJl-XpAnuTeJIb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnGeJl-XpAnuTeJIb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+![](https://komarev.com/ghpvc/?username=AnGeJl-XpAnuTeJIb&icon=0&color=0)
